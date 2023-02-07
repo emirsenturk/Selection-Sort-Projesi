@@ -1,2 +1,2 @@
 # Selection-Sort-Projesi
-İlk algoritma ödev projesi
+Algoritma ödev projesi 1
